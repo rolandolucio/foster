@@ -1,6 +1,6 @@
 {
   "name": "foster",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helps for an easy functions relay to manage callbacks as promises and viceversa, adding events support",
   "main": "index.js",
   "scripts": {
