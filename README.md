@@ -1,1 +1,3 @@
 # foster
+
+npm install foster
