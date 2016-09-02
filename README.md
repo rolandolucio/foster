@@ -1,3 +1,5 @@
-# foster
+# Foster
 
+```
 npm install foster
+```
